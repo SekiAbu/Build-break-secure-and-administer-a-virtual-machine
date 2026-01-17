@@ -76,10 +76,9 @@ A step-by-step guide for anyone who wants to recreate the environment:
 
 ---
 
-## 📸 Screenshots & Diagrams
+## 📸 Screenshots 
 
 All visual documentation is stored in the `docs/` directory:
-- Network diagrams  
 - VM architecture  
 - Before/after security states  
 - Attack and defense screenshots  
