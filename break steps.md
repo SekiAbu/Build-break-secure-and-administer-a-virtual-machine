@@ -1,0 +1,8 @@
+These are the break the virtual machine steps
+The key is to grant easy access to attackers so the security has to be very weak.
+And this can be achieved using the folllowing steps;
+-Creating a weak password that can easily be guessed 
+-Using a text editor like nano to grant easy access by permiting root login, allowing empty passords, and incresing the maximum number of tries to 10 which gives an attacker more chances to figure out the password.
+-Disabling the firewall and removing the firewall rules.
+-Stopping the systmem log.
+-Disabling appmor.
