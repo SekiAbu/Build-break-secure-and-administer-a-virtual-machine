@@ -69,16 +69,17 @@ The project demonstrates adversarial thinking, system hardening, protocol analys
 A step-by-step guide for anyone who wants to recreate the environment:
 
 1. Clone the repository  
-2. Follow the **build/** instructions to set up the VM  
-3. Apply the **break/** misconfigurations or attacks  
-4. Implement the **secure/** hardening steps  
-5. Use the **administer/** scripts to maintain the system  
+2. Follow the build steps.md instructions to set up the VM  
+3. Apply the break steps.md  misconfigurations or attacks  
+4. Implement the securing phase steps. md hardening steps  
+5. Use the administering phase step.md  to maintain the system  
 
 ---
 
 ## 📸 Screenshots 
 
 All visual documentation is stored in the `docs/` directory:
+- This contains a power point presentation on the project with screenshots of each phase.
 - VM architecture  
 - Before/after security states  
 - Attack and defense screenshots  
